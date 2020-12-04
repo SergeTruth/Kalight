@@ -8,4 +8,5 @@ to:
 
 VirtualBox -style Fusion %U
 
-[Kalight](README.md)
+## Navigation
+* [Kalight](README.md)
