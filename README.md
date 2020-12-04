@@ -1,2 +1,2 @@
 # Kalight
-Light Kali Linux distribution
+A light-weight Kali-based Linux distribution.
