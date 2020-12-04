@@ -7,3 +7,5 @@ VirtualBox %U
 to:
 
 VirtualBox -style Fusion %U
+
+[Kalight](README.md)
