@@ -1,3 +1,5 @@
 # Brave Browser
 
-[Kalight](README.md)
+
+## Navigation
+* [Kalight](README.md)
